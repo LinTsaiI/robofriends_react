@@ -1,10 +1,10 @@
-Create a RoboFriends website by using React
+# A RoboFriends website creating by React
 
-Following steps from ZTM course
+## Following the tutorial from ZTM course
 
-robofriends: Using only React
+- **robofriends**: Using only React
 
-robofriends_hook: Using React hooks
+- **robofriends_hook**: Using React hooks
 
-robofriends_Redux: Use React with Redux
+- **robofriends_Redux**: Using React-Redux
 
